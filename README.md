@@ -1,7 +1,7 @@
 # VLSI-system-on-chip - Online course
 
 
-# List of all the topics learnt
+# List of all the topics 
 1. Declaration of verilog module - [more of it inside the Module.v file]
 
 A module starts with the keyword - module, post which the name of the module is speciied. 
