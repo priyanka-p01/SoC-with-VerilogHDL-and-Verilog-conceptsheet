@@ -4,7 +4,7 @@
 ## List of all the topics: 
 1. Declaration of verilog module - [more of it inside the Module.v file]
 
-A module starts with the keyword - module, post which the name of the module is speciied. 
+A module starts with the keyword - module, post which the name of the module is specified. 
 
 In the parenthesis which follows all the port variables that are used will be mentioned. 
 
